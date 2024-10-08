@@ -16,6 +16,11 @@ Creating a new language with a custom font involves both linguistic and design e
 The custom font design itself plays a crucial role in how the language is perceived and used. It needs to be readable yet carry the stylistic essence that reflects the culture or purpose behind the language. Typography choices, such as stroke width, curvature, and ornamentation, are key in conveying the feel of the language. For example, a script with intricate curves might evoke a sense of elegance or history, while angular, minimalist characters can give a modern, tech-oriented impression. Developing a consistent font that accommodates all the symbols of the language ensures clarity and ease of learning for new users. Additionally, the font’s design must account for legibility at various sizes, making it adaptable for different media, from digital interfaces to printed materials.
 
 #
+### Simulation
+
+This custom GPT simulates fonts by leveraging Python libraries like FontForge, Pillow, ttfquery, and fonttools to create, modify, and render custom font files, primarily in the .ttf format. With FontForge, you can programmatically design and edit glyphs, transforming shapes through scaling, rotating, and translating, and then export the design into various font formats. Pillow facilitates font rendering, allowing you to preview text in the custom font, thus simulating how the font will appear on-screen or in print. Additionally, the GPT can guide you in setting up font metadata, such as name, weight, and style, and adjusting font metrics like ascent, descent, line height, and kerning. For advanced font customization, you can add ligatures and OpenType features, enabling complex glyph combinations or language-specific behaviors. Through programmatic testing, you can assess legibility at different sizes, check character spacing, and render sample text to evaluate the font’s overall aesthetic and readability. This approach provides a hands-on way to develop and test fonts directly within Python, offering flexibility in each stage of font creation.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
