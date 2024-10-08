@@ -19,6 +19,12 @@ The custom font design itself plays a crucial role in how the language is percei
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Handwriting](https://github.com/sourceduty/Handwriting)
+<br>
+[Encrpytion Specialist](https://github.com/sourceduty/Encryption_Specialist)
+<br>
+[Retrowriter](https://github.com/sourceduty/Retrowriter)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
