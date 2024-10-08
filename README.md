@@ -22,7 +22,7 @@ The custom font design itself plays a crucial role in how the language is percei
 <br>
 [Handwriting](https://github.com/sourceduty/Handwriting)
 <br>
-[Encrpytion Specialist](https://github.com/sourceduty/Encryption_Specialist)
+[Encryption Specialist](https://github.com/sourceduty/Encryption_Specialist)
 <br>
 [Retrowriter](https://github.com/sourceduty/Retrowriter)
 
