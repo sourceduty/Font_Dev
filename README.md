@@ -30,6 +30,8 @@ This custom GPT simulates fonts by leveraging Python libraries like FontForge, P
 [Encryption Specialist](https://github.com/sourceduty/Encryption_Specialist)
 <br>
 [Retrowriter](https://github.com/sourceduty/Retrowriter)
+<br>
+[Font Identity](https://github.com/sourceduty/Font_Identity)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
